@@ -1,0 +1,15 @@
+C:\Users\maria\curso C#\repos\inverternomes\inverternomes\bin\Debug\inverternomes.exe.config
+C:\Users\maria\curso C#\repos\inverternomes\inverternomes\bin\Debug\inverternomes.exe
+C:\Users\maria\curso C#\repos\inverternomes\inverternomes\bin\Debug\inverternomes.pdb
+C:\Users\maria\curso C#\repos\inverternomes\inverternomes\obj\Debug\inverternomes.csproj.AssemblyReference.cache
+C:\Users\maria\curso C#\repos\inverternomes\inverternomes\obj\Debug\inverternomes.csproj.CoreCompileInputs.cache
+C:\Users\maria\curso C#\repos\inverternomes\inverternomes\obj\Debug\inverternomes.exe
+C:\Users\maria\curso C#\repos\inverternomes\inverternomes\obj\Debug\inverternomes.pdb
+C:\Users\maria\curso-sharp\projetos\inverter_nomes\inverternomes\bin\Debug\inverternomes.exe.config
+C:\Users\maria\curso-sharp\projetos\inverter_nomes\inverternomes\bin\Debug\inverternomes.exe
+C:\Users\maria\curso-sharp\projetos\inverter_nomes\inverternomes\bin\Debug\inverternomes.pdb
+C:\Users\maria\curso-sharp\projetos\inverter_nomes\inverternomes\obj\Debug\inverternomes.csproj.AssemblyReference.cache
+C:\Users\maria\curso-sharp\projetos\inverter_nomes\inverternomes\obj\Debug\inverternomes.exe.config
+C:\Users\maria\curso-sharp\projetos\inverter_nomes\inverternomes\obj\Debug\inverternomes.csproj.CoreCompileInputs.cache
+C:\Users\maria\curso-sharp\projetos\inverter_nomes\inverternomes\obj\Debug\inverternomes.exe
+C:\Users\maria\curso-sharp\projetos\inverter_nomes\inverternomes\obj\Debug\inverternomes.pdb

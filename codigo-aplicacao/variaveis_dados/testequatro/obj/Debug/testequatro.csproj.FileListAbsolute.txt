@@ -1,0 +1,28 @@
+C:\Users\maria\source\repos\variaveis\testequatro\obj\Debug\testequatro.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\variaveis\testequatro\obj\Debug\testequatro.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\variaveis\testequatro\bin\Debug\testequatro.exe.config
+C:\Users\maria\source\repos\variaveis\testequatro\bin\Debug\testequatro.exe
+C:\Users\maria\source\repos\variaveis\testequatro\bin\Debug\testequatro.pdb
+C:\Users\maria\source\repos\variaveis\testequatro\obj\Debug\testequatro.exe
+C:\Users\maria\source\repos\variaveis\testequatro\obj\Debug\testequatro.pdb
+C:\Users\maria\curso C#\Projetos\variaveis 1\testequatro\bin\Debug\testequatro.exe.config
+C:\Users\maria\curso C#\Projetos\variaveis 1\testequatro\bin\Debug\testequatro.exe
+C:\Users\maria\curso C#\Projetos\variaveis 1\testequatro\bin\Debug\testequatro.pdb
+C:\Users\maria\curso C#\Projetos\variaveis 1\testequatro\obj\Debug\testequatro.csproj.AssemblyReference.cache
+C:\Users\maria\curso C#\Projetos\variaveis 1\testequatro\obj\Debug\testequatro.csproj.CoreCompileInputs.cache
+C:\Users\maria\curso C#\Projetos\variaveis 1\testequatro\obj\Debug\testequatro.exe
+C:\Users\maria\curso C#\Projetos\variaveis 1\testequatro\obj\Debug\testequatro.pdb
+C:\Users\maria\curso C#\Projetos\variaveis e tipos de dados\testequatro\bin\Debug\testequatro.exe.config
+C:\Users\maria\curso C#\Projetos\variaveis e tipos de dados\testequatro\bin\Debug\testequatro.exe
+C:\Users\maria\curso C#\Projetos\variaveis e tipos de dados\testequatro\bin\Debug\testequatro.pdb
+C:\Users\maria\curso C#\Projetos\variaveis e tipos de dados\testequatro\obj\Debug\testequatro.csproj.AssemblyReference.cache
+C:\Users\maria\curso C#\Projetos\variaveis e tipos de dados\testequatro\obj\Debug\testequatro.csproj.CoreCompileInputs.cache
+C:\Users\maria\curso C#\Projetos\variaveis e tipos de dados\testequatro\obj\Debug\testequatro.exe
+C:\Users\maria\curso C#\Projetos\variaveis e tipos de dados\testequatro\obj\Debug\testequatro.pdb
+C:\Users\maria\curso C#\Código + aplicação\variaveis e tipos de dados\testequatro\bin\Debug\testequatro.exe.config
+C:\Users\maria\curso C#\Código + aplicação\variaveis e tipos de dados\testequatro\bin\Debug\testequatro.exe
+C:\Users\maria\curso C#\Código + aplicação\variaveis e tipos de dados\testequatro\bin\Debug\testequatro.pdb
+C:\Users\maria\curso C#\Código + aplicação\variaveis e tipos de dados\testequatro\obj\Debug\testequatro.csproj.AssemblyReference.cache
+C:\Users\maria\curso C#\Código + aplicação\variaveis e tipos de dados\testequatro\obj\Debug\testequatro.csproj.CoreCompileInputs.cache
+C:\Users\maria\curso C#\Código + aplicação\variaveis e tipos de dados\testequatro\obj\Debug\testequatro.exe
+C:\Users\maria\curso C#\Código + aplicação\variaveis e tipos de dados\testequatro\obj\Debug\testequatro.pdb

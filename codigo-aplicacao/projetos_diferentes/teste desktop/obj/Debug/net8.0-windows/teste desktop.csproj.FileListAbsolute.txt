@@ -1,0 +1,16 @@
+C:\Users\maria\source\repos\taste\teste desktop\bin\Debug\net8.0-windows\teste desktop.exe
+C:\Users\maria\source\repos\taste\teste desktop\bin\Debug\net8.0-windows\teste desktop.deps.json
+C:\Users\maria\source\repos\taste\teste desktop\bin\Debug\net8.0-windows\teste desktop.runtimeconfig.json
+C:\Users\maria\source\repos\taste\teste desktop\bin\Debug\net8.0-windows\teste desktop.dll
+C:\Users\maria\source\repos\taste\teste desktop\bin\Debug\net8.0-windows\teste desktop.pdb
+C:\Users\maria\source\repos\taste\teste desktop\obj\Debug\net8.0-windows\teste_desktop.Form1.resources
+C:\Users\maria\source\repos\taste\teste desktop\obj\Debug\net8.0-windows\teste desktop.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\taste\teste desktop\obj\Debug\net8.0-windows\teste desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\taste\teste desktop\obj\Debug\net8.0-windows\teste desktop.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\taste\teste desktop\obj\Debug\net8.0-windows\teste desktop.AssemblyInfo.cs
+C:\Users\maria\source\repos\taste\teste desktop\obj\Debug\net8.0-windows\teste desktop.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\taste\teste desktop\obj\Debug\net8.0-windows\teste desktop.dll
+C:\Users\maria\source\repos\taste\teste desktop\obj\Debug\net8.0-windows\refint\teste desktop.dll
+C:\Users\maria\source\repos\taste\teste desktop\obj\Debug\net8.0-windows\teste desktop.pdb
+C:\Users\maria\source\repos\taste\teste desktop\obj\Debug\net8.0-windows\teste desktop.genruntimeconfig.cache
+C:\Users\maria\source\repos\taste\teste desktop\obj\Debug\net8.0-windows\ref\teste desktop.dll

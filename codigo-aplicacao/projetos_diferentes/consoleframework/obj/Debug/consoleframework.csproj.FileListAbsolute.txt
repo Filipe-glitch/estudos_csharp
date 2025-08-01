@@ -1,0 +1,7 @@
+C:\Users\maria\source\repos\taste\consoleframework\bin\Debug\consoleframework.exe.config
+C:\Users\maria\source\repos\taste\consoleframework\bin\Debug\consoleframework.exe
+C:\Users\maria\source\repos\taste\consoleframework\bin\Debug\consoleframework.pdb
+C:\Users\maria\source\repos\taste\consoleframework\obj\Debug\consoleframework.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\taste\consoleframework\obj\Debug\consoleframework.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\taste\consoleframework\obj\Debug\consoleframework.exe
+C:\Users\maria\source\repos\taste\consoleframework\obj\Debug\consoleframework.pdb

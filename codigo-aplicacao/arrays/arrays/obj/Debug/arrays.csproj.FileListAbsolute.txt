@@ -1,0 +1,14 @@
+C:\Users\maria\curso C#\Código + aplicação\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\maria\curso C#\Código + aplicação\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\maria\curso C#\Código + aplicação\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\maria\curso C#\Código + aplicação\arrays\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
+C:\Users\maria\curso C#\Código + aplicação\arrays\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+C:\Users\maria\curso C#\Código + aplicação\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\maria\curso C#\Código + aplicação\arrays\arrays\obj\Debug\arrays.pdb
+C:\Users\maria\curso C#\Código + aplicação\arrays teoria e exercicios\arrays\bin\Debug\arrays.exe.config
+C:\Users\maria\curso C#\Código + aplicação\arrays teoria e exercicios\arrays\bin\Debug\arrays.exe
+C:\Users\maria\curso C#\Código + aplicação\arrays teoria e exercicios\arrays\bin\Debug\arrays.pdb
+C:\Users\maria\curso C#\Código + aplicação\arrays teoria e exercicios\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
+C:\Users\maria\curso C#\Código + aplicação\arrays teoria e exercicios\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+C:\Users\maria\curso C#\Código + aplicação\arrays teoria e exercicios\arrays\obj\Debug\arrays.exe
+C:\Users\maria\curso C#\Código + aplicação\arrays teoria e exercicios\arrays\obj\Debug\arrays.pdb

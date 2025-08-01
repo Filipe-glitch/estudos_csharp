@@ -1,0 +1,7 @@
+C:\Users\maria\curso C#\Código + aplicação\condicao\condicao\bin\Debug\condicao.exe.config
+C:\Users\maria\curso C#\Código + aplicação\condicao\condicao\bin\Debug\condicao.exe
+C:\Users\maria\curso C#\Código + aplicação\condicao\condicao\bin\Debug\condicao.pdb
+C:\Users\maria\curso C#\Código + aplicação\condicao\condicao\obj\Debug\condicao.csproj.AssemblyReference.cache
+C:\Users\maria\curso C#\Código + aplicação\condicao\condicao\obj\Debug\condicao.csproj.CoreCompileInputs.cache
+C:\Users\maria\curso C#\Código + aplicação\condicao\condicao\obj\Debug\condicao.exe
+C:\Users\maria\curso C#\Código + aplicação\condicao\condicao\obj\Debug\condicao.pdb

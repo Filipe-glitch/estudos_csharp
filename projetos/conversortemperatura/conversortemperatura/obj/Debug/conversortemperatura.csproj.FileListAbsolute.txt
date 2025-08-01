@@ -1,0 +1,15 @@
+C:\Users\maria\curso C#\Projetos\conversortemperatura\conversortemperatura\bin\Debug\conversortemperatura.exe.config
+C:\Users\maria\curso C#\Projetos\conversortemperatura\conversortemperatura\bin\Debug\conversortemperatura.exe
+C:\Users\maria\curso C#\Projetos\conversortemperatura\conversortemperatura\bin\Debug\conversortemperatura.pdb
+C:\Users\maria\curso C#\Projetos\conversortemperatura\conversortemperatura\obj\Debug\conversortemperatura.csproj.AssemblyReference.cache
+C:\Users\maria\curso C#\Projetos\conversortemperatura\conversortemperatura\obj\Debug\conversortemperatura.csproj.CoreCompileInputs.cache
+C:\Users\maria\curso C#\Projetos\conversortemperatura\conversortemperatura\obj\Debug\conversortemperatura.exe
+C:\Users\maria\curso C#\Projetos\conversortemperatura\conversortemperatura\obj\Debug\conversortemperatura.pdb
+C:\Users\maria\curso-sharp\projetos\conversortemperatura\conversortemperatura\bin\Debug\conversortemperatura.exe.config
+C:\Users\maria\curso-sharp\projetos\conversortemperatura\conversortemperatura\bin\Debug\conversortemperatura.exe
+C:\Users\maria\curso-sharp\projetos\conversortemperatura\conversortemperatura\bin\Debug\conversortemperatura.pdb
+C:\Users\maria\curso-sharp\projetos\conversortemperatura\conversortemperatura\obj\Debug\conversortemperatura.csproj.AssemblyReference.cache
+C:\Users\maria\curso-sharp\projetos\conversortemperatura\conversortemperatura\obj\Debug\conversortemperatura.exe.config
+C:\Users\maria\curso-sharp\projetos\conversortemperatura\conversortemperatura\obj\Debug\conversortemperatura.csproj.CoreCompileInputs.cache
+C:\Users\maria\curso-sharp\projetos\conversortemperatura\conversortemperatura\obj\Debug\conversortemperatura.exe
+C:\Users\maria\curso-sharp\projetos\conversortemperatura\conversortemperatura\obj\Debug\conversortemperatura.pdb

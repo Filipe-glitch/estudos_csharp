@@ -1,0 +1,7 @@
+C:\Users\maria\curso C#\Código + aplicação\POO\classeseobjetos\bin\Debug\classeseobjetos.exe.config
+C:\Users\maria\curso C#\Código + aplicação\POO\classeseobjetos\bin\Debug\classeseobjetos.exe
+C:\Users\maria\curso C#\Código + aplicação\POO\classeseobjetos\bin\Debug\classeseobjetos.pdb
+C:\Users\maria\curso C#\Código + aplicação\POO\classeseobjetos\obj\Debug\classeseobjetos.csproj.AssemblyReference.cache
+C:\Users\maria\curso C#\Código + aplicação\POO\classeseobjetos\obj\Debug\classeseobjetos.csproj.CoreCompileInputs.cache
+C:\Users\maria\curso C#\Código + aplicação\POO\classeseobjetos\obj\Debug\classeseobjetos.exe
+C:\Users\maria\curso C#\Código + aplicação\POO\classeseobjetos\obj\Debug\classeseobjetos.pdb

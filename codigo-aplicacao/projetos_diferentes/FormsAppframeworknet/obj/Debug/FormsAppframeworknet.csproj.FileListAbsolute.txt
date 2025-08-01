@@ -1,0 +1,10 @@
+C:\Users\maria\source\repos\taste\FormsAppframeworknet\bin\Debug\FormsAppframeworknet.exe.config
+C:\Users\maria\source\repos\taste\FormsAppframeworknet\bin\Debug\FormsAppframeworknet.exe
+C:\Users\maria\source\repos\taste\FormsAppframeworknet\bin\Debug\FormsAppframeworknet.pdb
+C:\Users\maria\source\repos\taste\FormsAppframeworknet\obj\Debug\FormsAppframeworknet.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\taste\FormsAppframeworknet\obj\Debug\FormsAppframeworknet.Form1.resources
+C:\Users\maria\source\repos\taste\FormsAppframeworknet\obj\Debug\FormsAppframeworknet.Properties.Resources.resources
+C:\Users\maria\source\repos\taste\FormsAppframeworknet\obj\Debug\FormsAppframeworknet.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\taste\FormsAppframeworknet\obj\Debug\FormsAppframeworknet.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\taste\FormsAppframeworknet\obj\Debug\FormsAppframeworknet.exe
+C:\Users\maria\source\repos\taste\FormsAppframeworknet\obj\Debug\FormsAppframeworknet.pdb

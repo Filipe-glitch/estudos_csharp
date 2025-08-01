@@ -1,0 +1,28 @@
+C:\Users\maria\source\repos\taste\ConsoleApplevle up\bin\Debug\net9.0\ConsoleApplevle up.exe
+C:\Users\maria\source\repos\taste\ConsoleApplevle up\bin\Debug\net9.0\ConsoleApplevle up.deps.json
+C:\Users\maria\source\repos\taste\ConsoleApplevle up\bin\Debug\net9.0\ConsoleApplevle up.runtimeconfig.json
+C:\Users\maria\source\repos\taste\ConsoleApplevle up\bin\Debug\net9.0\ConsoleApplevle up.dll
+C:\Users\maria\source\repos\taste\ConsoleApplevle up\bin\Debug\net9.0\ConsoleApplevle up.pdb
+C:\Users\maria\source\repos\taste\ConsoleApplevle up\obj\Debug\net9.0\ConsoleApplevle up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\taste\ConsoleApplevle up\obj\Debug\net9.0\ConsoleApplevle up.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\taste\ConsoleApplevle up\obj\Debug\net9.0\ConsoleApplevle up.AssemblyInfo.cs
+C:\Users\maria\source\repos\taste\ConsoleApplevle up\obj\Debug\net9.0\ConsoleApplevle up.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\taste\ConsoleApplevle up\obj\Debug\net9.0\ConsoleApplevle up.dll
+C:\Users\maria\source\repos\taste\ConsoleApplevle up\obj\Debug\net9.0\refint\ConsoleApplevle up.dll
+C:\Users\maria\source\repos\taste\ConsoleApplevle up\obj\Debug\net9.0\ConsoleApplevle up.pdb
+C:\Users\maria\source\repos\taste\ConsoleApplevle up\obj\Debug\net9.0\ConsoleApplevle up.genruntimeconfig.cache
+C:\Users\maria\source\repos\taste\ConsoleApplevle up\obj\Debug\net9.0\ref\ConsoleApplevle up.dll
+C:\Users\maria\curso C#\Código + aplicação\exemplos de projetos diferentes\ConsoleApplevle up\bin\Debug\net9.0\ConsoleApplevle up.exe
+C:\Users\maria\curso C#\Código + aplicação\exemplos de projetos diferentes\ConsoleApplevle up\bin\Debug\net9.0\ConsoleApplevle up.deps.json
+C:\Users\maria\curso C#\Código + aplicação\exemplos de projetos diferentes\ConsoleApplevle up\bin\Debug\net9.0\ConsoleApplevle up.runtimeconfig.json
+C:\Users\maria\curso C#\Código + aplicação\exemplos de projetos diferentes\ConsoleApplevle up\bin\Debug\net9.0\ConsoleApplevle up.dll
+C:\Users\maria\curso C#\Código + aplicação\exemplos de projetos diferentes\ConsoleApplevle up\bin\Debug\net9.0\ConsoleApplevle up.pdb
+C:\Users\maria\curso C#\Código + aplicação\exemplos de projetos diferentes\ConsoleApplevle up\obj\Debug\net9.0\ConsoleApplevle up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\curso C#\Código + aplicação\exemplos de projetos diferentes\ConsoleApplevle up\obj\Debug\net9.0\ConsoleApplevle up.AssemblyInfoInputs.cache
+C:\Users\maria\curso C#\Código + aplicação\exemplos de projetos diferentes\ConsoleApplevle up\obj\Debug\net9.0\ConsoleApplevle up.AssemblyInfo.cs
+C:\Users\maria\curso C#\Código + aplicação\exemplos de projetos diferentes\ConsoleApplevle up\obj\Debug\net9.0\ConsoleApplevle up.csproj.CoreCompileInputs.cache
+C:\Users\maria\curso C#\Código + aplicação\exemplos de projetos diferentes\ConsoleApplevle up\obj\Debug\net9.0\ConsoleApplevle up.dll
+C:\Users\maria\curso C#\Código + aplicação\exemplos de projetos diferentes\ConsoleApplevle up\obj\Debug\net9.0\refint\ConsoleApplevle up.dll
+C:\Users\maria\curso C#\Código + aplicação\exemplos de projetos diferentes\ConsoleApplevle up\obj\Debug\net9.0\ConsoleApplevle up.pdb
+C:\Users\maria\curso C#\Código + aplicação\exemplos de projetos diferentes\ConsoleApplevle up\obj\Debug\net9.0\ConsoleApplevle up.genruntimeconfig.cache
+C:\Users\maria\curso C#\Código + aplicação\exemplos de projetos diferentes\ConsoleApplevle up\obj\Debug\net9.0\ref\ConsoleApplevle up.dll

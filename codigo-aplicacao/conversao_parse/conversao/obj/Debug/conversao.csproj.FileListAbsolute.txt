@@ -1,0 +1,14 @@
+C:\Users\maria\curso C#\Código + aplicação\conversao\conversao\bin\Debug\conversao.exe.config
+C:\Users\maria\curso C#\Código + aplicação\conversao\conversao\bin\Debug\conversao.exe
+C:\Users\maria\curso C#\Código + aplicação\conversao\conversao\bin\Debug\conversao.pdb
+C:\Users\maria\curso C#\Código + aplicação\conversao\conversao\obj\Debug\conversao.csproj.AssemblyReference.cache
+C:\Users\maria\curso C#\Código + aplicação\conversao\conversao\obj\Debug\conversao.csproj.CoreCompileInputs.cache
+C:\Users\maria\curso C#\Código + aplicação\conversao\conversao\obj\Debug\conversao.exe
+C:\Users\maria\curso C#\Código + aplicação\conversao\conversao\obj\Debug\conversao.pdb
+C:\Users\maria\curso C#\Código + aplicação\conversao + parse\conversao\bin\Debug\conversao.exe.config
+C:\Users\maria\curso C#\Código + aplicação\conversao + parse\conversao\bin\Debug\conversao.exe
+C:\Users\maria\curso C#\Código + aplicação\conversao + parse\conversao\bin\Debug\conversao.pdb
+C:\Users\maria\curso C#\Código + aplicação\conversao + parse\conversao\obj\Debug\conversao.csproj.AssemblyReference.cache
+C:\Users\maria\curso C#\Código + aplicação\conversao + parse\conversao\obj\Debug\conversao.csproj.CoreCompileInputs.cache
+C:\Users\maria\curso C#\Código + aplicação\conversao + parse\conversao\obj\Debug\conversao.exe
+C:\Users\maria\curso C#\Código + aplicação\conversao + parse\conversao\obj\Debug\conversao.pdb

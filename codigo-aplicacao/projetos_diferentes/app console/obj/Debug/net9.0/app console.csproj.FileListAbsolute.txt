@@ -1,0 +1,14 @@
+C:\Users\maria\source\repos\taste\app console\bin\Debug\net9.0\app console.exe
+C:\Users\maria\source\repos\taste\app console\bin\Debug\net9.0\app console.deps.json
+C:\Users\maria\source\repos\taste\app console\bin\Debug\net9.0\app console.runtimeconfig.json
+C:\Users\maria\source\repos\taste\app console\bin\Debug\net9.0\app console.dll
+C:\Users\maria\source\repos\taste\app console\bin\Debug\net9.0\app console.pdb
+C:\Users\maria\source\repos\taste\app console\obj\Debug\net9.0\app console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\taste\app console\obj\Debug\net9.0\app console.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\taste\app console\obj\Debug\net9.0\app console.AssemblyInfo.cs
+C:\Users\maria\source\repos\taste\app console\obj\Debug\net9.0\app console.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\taste\app console\obj\Debug\net9.0\app console.dll
+C:\Users\maria\source\repos\taste\app console\obj\Debug\net9.0\refint\app console.dll
+C:\Users\maria\source\repos\taste\app console\obj\Debug\net9.0\app console.pdb
+C:\Users\maria\source\repos\taste\app console\obj\Debug\net9.0\app console.genruntimeconfig.cache
+C:\Users\maria\source\repos\taste\app console\obj\Debug\net9.0\ref\app console.dll

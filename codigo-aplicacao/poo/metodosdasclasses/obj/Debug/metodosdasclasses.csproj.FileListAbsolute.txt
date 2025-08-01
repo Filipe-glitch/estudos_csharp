@@ -1,0 +1,7 @@
+C:\Users\maria\curso C#\Código + aplicação\POO\metodosdasclasses\bin\Debug\metodosdasclasses.exe.config
+C:\Users\maria\curso C#\Código + aplicação\POO\metodosdasclasses\bin\Debug\metodosdasclasses.exe
+C:\Users\maria\curso C#\Código + aplicação\POO\metodosdasclasses\bin\Debug\metodosdasclasses.pdb
+C:\Users\maria\curso C#\Código + aplicação\POO\metodosdasclasses\obj\Debug\metodosdasclasses.csproj.AssemblyReference.cache
+C:\Users\maria\curso C#\Código + aplicação\POO\metodosdasclasses\obj\Debug\metodosdasclasses.csproj.CoreCompileInputs.cache
+C:\Users\maria\curso C#\Código + aplicação\POO\metodosdasclasses\obj\Debug\metodosdasclasses.exe
+C:\Users\maria\curso C#\Código + aplicação\POO\metodosdasclasses\obj\Debug\metodosdasclasses.pdb
