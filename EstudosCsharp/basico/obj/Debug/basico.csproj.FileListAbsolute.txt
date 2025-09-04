@@ -1,0 +1,8 @@
+C:\Users\maria\curso-sharp\EstudosCsharp\basico\bin\Debug\basico.exe.config
+C:\Users\maria\curso-sharp\EstudosCsharp\basico\bin\Debug\basico.exe
+C:\Users\maria\curso-sharp\EstudosCsharp\basico\bin\Debug\basico.pdb
+C:\Users\maria\curso-sharp\EstudosCsharp\basico\obj\Debug\basico.csproj.AssemblyReference.cache
+C:\Users\maria\curso-sharp\EstudosCsharp\basico\obj\Debug\basico.csproj.CoreCompileInputs.cache
+C:\Users\maria\curso-sharp\EstudosCsharp\basico\obj\Debug\basico.exe
+C:\Users\maria\curso-sharp\EstudosCsharp\basico\obj\Debug\basico.pdb
+C:\Users\maria\curso-sharp\EstudosCsharp\basico\obj\Debug\basico.exe.config

@@ -1,0 +1,7 @@
+C:\Users\maria\curso-sharp\EstudosCsharp\enumstruct\bin\Debug\enumstruct.exe.config
+C:\Users\maria\curso-sharp\EstudosCsharp\enumstruct\bin\Debug\enumstruct.exe
+C:\Users\maria\curso-sharp\EstudosCsharp\enumstruct\bin\Debug\enumstruct.pdb
+C:\Users\maria\curso-sharp\EstudosCsharp\enumstruct\obj\Debug\enumstruct.csproj.AssemblyReference.cache
+C:\Users\maria\curso-sharp\EstudosCsharp\enumstruct\obj\Debug\enumstruct.csproj.CoreCompileInputs.cache
+C:\Users\maria\curso-sharp\EstudosCsharp\enumstruct\obj\Debug\enumstruct.exe
+C:\Users\maria\curso-sharp\EstudosCsharp\enumstruct\obj\Debug\enumstruct.pdb

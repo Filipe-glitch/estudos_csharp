@@ -1,7 +1,0 @@
-C:\Users\maria\curso C#\Código + aplicação\controle\controle\obj\Debug\controle.csproj.AssemblyReference.cache
-C:\Users\maria\curso C#\Código + aplicação\controle\controle\obj\Debug\controle.csproj.CoreCompileInputs.cache
-C:\Users\maria\curso C#\Código + aplicação\controle\controle\bin\Debug\controle.exe.config
-C:\Users\maria\curso C#\Código + aplicação\controle\controle\bin\Debug\controle.exe
-C:\Users\maria\curso C#\Código + aplicação\controle\controle\bin\Debug\controle.pdb
-C:\Users\maria\curso C#\Código + aplicação\controle\controle\obj\Debug\controle.exe
-C:\Users\maria\curso C#\Código + aplicação\controle\controle\obj\Debug\controle.pdb

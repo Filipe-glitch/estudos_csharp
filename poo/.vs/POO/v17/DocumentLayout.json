@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\curso-sharp\\poo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8F18FA-D65A-4CC8-9118-3BDD558745BA}|classeseobjetos\\classeseobjetos.csproj|c:\\users\\maria\\curso-sharp\\poo\\classeseobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8F18FA-D65A-4CC8-9118-3BDD558745BA}|classeseobjetos\\classeseobjetos.csproj|solutionrelative:classeseobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8F18FA-D65A-4CC8-9118-3BDD558745BA}|classeseobjetos\\classeseobjetos.csproj|C:\\Users\\maria\\curso-sharp\\poo\\classeseobjetos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8F18FA-D65A-4CC8-9118-3BDD558745BA}|classeseobjetos\\classeseobjetos.csproj|solutionrelative:classeseobjetos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8F18FA-D65A-4CC8-9118-3BDD558745BA}|classeseobjetos\\classeseobjetos.csproj|C:\\Users\\maria\\curso-sharp\\poo\\classeseobjetos\\outraclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8F18FA-D65A-4CC8-9118-3BDD558745BA}|classeseobjetos\\classeseobjetos.csproj|solutionrelative:classeseobjetos\\outraclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44C679D-41B4-439E-BAA7-9B0EDFC4A71E}|metodosdasclasses\\metodosdasclasses.csproj|C:\\Users\\maria\\curso-sharp\\poo\\metodosdasclasses\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44C679D-41B4-439E-BAA7-9B0EDFC4A71E}|metodosdasclasses\\metodosdasclasses.csproj|solutionrelative:metodosdasclasses\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44C679D-41B4-439E-BAA7-9B0EDFC4A71E}|metodosdasclasses\\metodosdasclasses.csproj|C:\\Users\\maria\\curso-sharp\\poo\\metodosdasclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44C679D-41B4-439E-BAA7-9B0EDFC4A71E}|metodosdasclasses\\metodosdasclasses.csproj|solutionrelative:metodosdasclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185E0FD3-50B5-4968-A771-BD21CB8E2E07}|termothis\\termothis.csproj|C:\\Users\\maria\\curso-sharp\\poo\\termothis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{185E0FD3-50B5-4968-A771-BD21CB8E2E07}|termothis\\termothis.csproj|solutionrelative:termothis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCA6325-651D-4274-9EE9-E956991C2490}|tipodelegate\\tipodelegate.csproj|C:\\Users\\maria\\curso-sharp\\poo\\tipodelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCA6325-651D-4274-9EE9-E956991C2490}|tipodelegate\\tipodelegate.csproj|solutionrelative:tipodelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCA6325-651D-4274-9EE9-E956991C2490}|tipodelegate\\tipodelegate.csproj|C:\\Users\\maria\\curso-sharp\\poo\\tipodelegate\\matematica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCA6325-651D-4274-9EE9-E956991C2490}|tipodelegate\\tipodelegate.csproj|solutionrelative:tipodelegate\\matematica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "outraclasse.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\curso-sharp\\poo\\classeseobjetos\\outraclasse.cs",
+              "RelativeDocumentMoniker": "classeseobjetos\\outraclasse.cs",
+              "ToolTip": "C:\\Users\\maria\\curso-sharp\\poo\\classeseobjetos\\outraclasse.cs",
+              "RelativeToolTip": "classeseobjetos\\outraclasse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T18:37:21.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\curso-sharp\\poo\\classeseobjetos\\Pessoa.cs",
+              "RelativeDocumentMoniker": "classeseobjetos\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\maria\\curso-sharp\\poo\\classeseobjetos\\Pessoa.cs",
+              "RelativeToolTip": "classeseobjetos\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T18:37:20.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\curso-sharp\\poo\\classeseobjetos\\Program.cs",
+              "RelativeDocumentMoniker": "classeseobjetos\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\curso-sharp\\poo\\classeseobjetos\\Program.cs",
+              "RelativeToolTip": "classeseobjetos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T18:37:19.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "metodos.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\curso-sharp\\poo\\metodosdasclasses\\metodos.cs",
+              "RelativeDocumentMoniker": "metodosdasclasses\\metodos.cs",
+              "ToolTip": "C:\\Users\\maria\\curso-sharp\\poo\\metodosdasclasses\\metodos.cs",
+              "RelativeToolTip": "metodosdasclasses\\metodos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T18:37:18.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\curso-sharp\\poo\\metodosdasclasses\\Program.cs",
+              "RelativeDocumentMoniker": "metodosdasclasses\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\curso-sharp\\poo\\metodosdasclasses\\Program.cs",
+              "RelativeToolTip": "metodosdasclasses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T18:37:18.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\curso-sharp\\poo\\termothis\\Program.cs",
+              "RelativeDocumentMoniker": "termothis\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\curso-sharp\\poo\\termothis\\Program.cs",
+              "RelativeToolTip": "termothis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T18:37:15.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "matematica.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\curso-sharp\\poo\\tipodelegate\\matematica.cs",
+              "RelativeDocumentMoniker": "tipodelegate\\matematica.cs",
+              "ToolTip": "C:\\Users\\maria\\curso-sharp\\poo\\tipodelegate\\matematica.cs",
+              "RelativeToolTip": "tipodelegate\\matematica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:52:26.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\curso-sharp\\poo\\tipodelegate\\Program.cs",
+              "RelativeDocumentMoniker": "tipodelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\curso-sharp\\poo\\tipodelegate\\Program.cs",
+              "RelativeToolTip": "tipodelegate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:40:21.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
